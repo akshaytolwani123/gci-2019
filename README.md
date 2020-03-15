@@ -41,4 +41,4 @@ I did a total of 14 tasks,one beginner task for FOSSASIA and 13 tasks for the Fe
 In this task we had to run a javascript file in our web browser with a tab in github.com where we are logged in which the script would star some FOSSASIA projects and we had to join their giter group and say hello there.
 
 1. Build a Django Hello-World project
-In this task we had to build a django hello world project.Code in the [django-hellowoorld-gci]()folder.
+In this task we had to build a django hello world project.Code in the [django-hellowoorld-gci]() folder.
