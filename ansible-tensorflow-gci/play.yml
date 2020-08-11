@@ -1,0 +1,10 @@
+---
+
+- name: Install tensorflow
+  hosts: localhost
+  connection: local 
+  tasks:
+
+    - name: Install tensorflow
+      pip:
+        name: tensorflow
